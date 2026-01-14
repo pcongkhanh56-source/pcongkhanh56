@@ -1,0 +1,5 @@
+{
+  "name": "Cờ Caro Trí Tuệ - Tic-Tac-Toe Quiz",
+  "description": "An interactive educational Tic-Tac-Toe game where players must answer quiz questions to claim squares on the 3x3 board. Supports 2 to 5 teams with customizable question banks.",
+  "requestFramePermissions": []
+}
